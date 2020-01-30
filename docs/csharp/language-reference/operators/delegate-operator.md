@@ -40,4 +40,4 @@ Para obter mais informações, confira a seção [Expressões de função anôni
 
 - [Referência de C#](../index.md)
 - [Operadores do C#](index.md)
-- [= operador de >](lambda-operator.md)
+- [Operador =>](lambda-operator.md)
